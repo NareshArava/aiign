@@ -1,0 +1,29 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Review Meeting",
+      "text": "Weekly Review with Team at 5:00pm"
+    },
+    {
+      "id": 2,
+      "title": "Feedback Session",
+      "text": "Conduct Feedback for wave 1 cadets"
+    },
+    {
+      "title": "test",
+      "text": "note",
+      "id": 3
+    },
+    {
+      "title": "Dummy Note",
+      "text": "Note Text",
+      "id": 4
+    },
+    {
+      "title": "test service",
+      "text": "note service for Note CRUD operations",
+      "id": 5
+    }
+  ]
+}
